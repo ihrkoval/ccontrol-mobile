@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spy</string>
+    <string name = "your_message">Spy Loaded</string>
+</resources>
